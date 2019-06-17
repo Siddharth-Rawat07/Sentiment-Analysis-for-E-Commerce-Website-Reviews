@@ -1,0 +1,6 @@
+READ ME
+========
+1. Both the files replacers and DataClean contains all the classes required, which are used in TF-IDF.
+2. replacers works as a package when in DataClean uses all the class methods that are present in replacers.
+3. DataClean has all the class methods that are used in TF-IDF.
+4. TF-IDF will make use of all the methods in and Dataclean and performs the DataMining.
